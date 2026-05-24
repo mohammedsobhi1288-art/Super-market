@@ -1,0 +1,6 @@
+{
+  "name": "Super Market",
+  "description": "لعبة إدارة السوبر ماركت المثيرة والمجانية! نافس لاعبين آخرين في لوحة المتصدرين الحية، وقم بترقية رفوفك، واشترِ المنتجات النادرة من المزاد، وقم بتفعيل كود كبار الشخصيات VIP الحصري بميزات أسطورية ودعم دفع محاكاة خيالي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
